@@ -13,7 +13,7 @@
 <br />我是一个五年级学生<br />
 原名梅布斯.乔治
 <br />为什么我叫梅布斯乔治，但网名叫Mbilse？
-<br />因为梅布斯=meibusi，缩写mbilse，所以叫Mbilse。
+<br />因为梅布斯=meibusi，缩写mbilse，所以叫Mbilse。~~ (算是吧) ~~
 <br />
 <br />
 您可以给我贡献！
