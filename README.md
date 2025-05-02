@@ -20,6 +20,14 @@
 <br />
 欢迎大家加入！
 
+## 参与制作
+
+> 我参与
+
+[tjy-gitnub win12](https://github.com/tjy-gitnub/win12)
+
+[Mbilse website](https://github.com/mbilse/mbilse.github.io)
+
 ## 我会的
     
 ##### 注：按照先后顺序是我的会/不会程度!
