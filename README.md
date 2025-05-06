@@ -189,6 +189,9 @@ function start(){
  [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fmbilse.github.io&label=Website&down_message=down%20%3A\()](https://mbilse.github.io "Website") 
  [![Stars](https://img.shields.io/github/stars/mbilse?style=flat-square&color=yellow&label=Stars)](https://github.com/mbilse?tab=repositories&sort=stargazers "Stars") 
  [![GitHub followers](https://img.shields.io/github/followers/mbilse?style=flat-square&label=Followers)](https://github.com/lingbopro?tab=followers "GitHub followers")
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
+<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
 
 ## 活跃
