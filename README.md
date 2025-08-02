@@ -187,6 +187,11 @@ function start(){
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mbilse)](https://github.com/anuraghazra/github-readme-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yujincheng08.vercel.app/api/top-langs/?theme=onedark&username=mbilse&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
+  <img src="https://github-readme-stats-yujincheng08.vercel.app/api/top-langs/?username=mbilse&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
+</picture>
+
 ## 热门推荐
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/mbilse/mbilse.github.io/)
 
