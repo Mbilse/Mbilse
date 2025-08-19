@@ -246,7 +246,7 @@ function start(){
 恭喜！本站已经有
 <br />
 
- **![Visitor Count](https : //profile-counter.glitch.me/Mbilse/count.svg)**
+ ![Visitor Count](https://profile-counter.glitch.me/Mbilse/count.svg)
 
 <br />
 
