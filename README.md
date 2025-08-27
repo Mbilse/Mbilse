@@ -252,6 +252,8 @@ function start(){
 
 人访问了！加油！！！
 
+(由于glitch崩了,目前应该是停在8837上.)
+
 ## 后记
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=74FF66EF&width=500&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again.;Have+a+good+day!;That's+OK.)](https://git.io/typing-svg)
